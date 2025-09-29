@@ -4,6 +4,8 @@ description: Language Modelling for Speech Recognition
 file: /courses/6-345-automatic-speech-recognition-spring-2003/6f59dcd153cc92b4d565ca4b45b2bc83_lecture1112.pdf
 file_size: 678543
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: Vector Quantization and Clustering
 file: /courses/6-345-automatic-speech-recognition-spring-2003/03cf90ad84bcc6971e4fc8bf26c6fee3_lecture6new.pdf
 file_size: 1891595
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

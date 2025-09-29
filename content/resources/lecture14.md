@@ -4,6 +4,8 @@ description: 'Part I: Designing HMM-based ASR systems'
 file: /courses/6-345-automatic-speech-recognition-spring-2003/5bc4b80114136555eac3af111d2c27fb_lecture14.pdf
 file_size: 2193224
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

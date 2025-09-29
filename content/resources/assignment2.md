@@ -4,6 +4,8 @@ description: 'Assignment 2: Syllable Structure'
 file: /courses/6-345-automatic-speech-recognition-spring-2003/5cb1d79fa8092a648e90037c1bad5af9_assignment2.pdf
 file_size: 351653
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

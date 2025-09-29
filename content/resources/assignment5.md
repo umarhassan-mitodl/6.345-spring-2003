@@ -4,6 +4,8 @@ description: 'Assignment 5: Introduction to Hidden Markov Models'
 file: /courses/6-345-automatic-speech-recognition-spring-2003/a61fc9fbfbd5fec5624bb6c606996d56_assignment5.pdf
 file_size: 64827
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

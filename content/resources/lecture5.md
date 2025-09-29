@@ -4,6 +4,8 @@ description: Speech Signal Representation
 file: /courses/6-345-automatic-speech-recognition-spring-2003/57ec152a0eb7a2050443307141299a09_lecture5.pdf
 file_size: 2014493
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

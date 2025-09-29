@@ -4,6 +4,8 @@ description: Segment-based Speech Recognition
 file: /courses/6-345-automatic-speech-recognition-spring-2003/896a6ef6bf700593b47c6bd8d3c058c0_lecture16.pdf
 file_size: 259770
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
