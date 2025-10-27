@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains the lecture slides for the course. Lectures 3,
   4, and 6 have audio links to speech samples presented during the lectures.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

@@ -4,8 +4,6 @@ description: 'Conversational Systems: Advances and Challenges'
 file: /courses/6-345-automatic-speech-recognition-spring-2003/1a7d821caa2c158bb6ec12b09d392625_lecture22.pdf
 file_size: 990729
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

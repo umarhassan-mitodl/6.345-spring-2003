@@ -6,8 +6,6 @@ description: 'A Practical Introduction to Graphical Models
 file: /courses/6-345-automatic-speech-recognition-spring-2003/c63a9140453af8c97ef2fcb7de0c1587_lecture13.pdf
 file_size: 558777
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

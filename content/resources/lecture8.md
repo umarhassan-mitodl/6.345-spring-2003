@@ -4,8 +4,6 @@ description: Pattern Classification
 file: /courses/6-345-automatic-speech-recognition-spring-2003/d0ed18fdb5fe11685a57d99b96e35db2_lecture8.pdf
 file_size: 956303
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

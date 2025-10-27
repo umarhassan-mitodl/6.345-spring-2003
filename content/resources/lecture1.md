@@ -4,8 +4,6 @@ description: Lecture slides.
 file: /courses/6-345-automatic-speech-recognition-spring-2003/1749b7436c6876987c11a4b3a682e4c3_lecture1.pdf
 file_size: 253347
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

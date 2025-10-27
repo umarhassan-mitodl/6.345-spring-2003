@@ -5,8 +5,6 @@ description: 'Assignment 8: Speech recognition using HMM-based systems: CMU SPHI
 file: /courses/6-345-automatic-speech-recognition-spring-2003/32abb300bde85ecfe9f80b47b7b5e91a_assignment8.pdf
 file_size: 69761
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

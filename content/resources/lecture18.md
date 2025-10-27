@@ -4,8 +4,6 @@ description: ASR for Spoken-Dialogue Systems
 file: /courses/6-345-automatic-speech-recognition-spring-2003/a3b3fbd14031c6da1c2d5918269d4897_lecture18.pdf
 file_size: 193187
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

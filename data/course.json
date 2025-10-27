@@ -28,7 +28,6 @@
     "website": "6-345-automatic-speech-recognition-spring-2003"
   },
   "course_title": "Automatic Speech Recognition",
-  "hide_download": true,
   "course_description": "6.345 introduces students to the rapidly developing field of automatic speech recognition. Its content is divided into three parts. Part I deals with background material in the acoustic theory of speech production, acoustic-phonetics, and signal representation. Part II describes algorithmic aspects of speech recognition systems including pattern classification, search algorithms, stochastic modelling, and language modelling techniques. Part III compares and contrasts the various approaches to speech recognition, and describes advanced techniques used for acoustic-phonetic modelling, robust speech recognition, speaker adaptation, processing paralinguistic information, speech understanding, and multimodal processing.\n",
   "department_numbers": [
     "6"
@@ -39,7 +38,6 @@
     "content": "e666dcc5-2e31-f649-e114-35210b1639f6",
     "website": "6-345-automatic-speech-recognition-spring-2003"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Demonstration Audio",
     "Lecture Notes"
